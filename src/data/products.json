@@ -64,6 +64,214 @@
         "0", "10"
       ],
       "price": 40.99
+    },
+    {
+      "id": 6,
+      "name": "Men's Fanatics Branded Scarlet Nebraska Cornhuskers Big & Tall Iconic Bold Full-Zip Hoodie",
+      "description": "Men's Colosseum Scarlet Nebraska Cornhuskers Big & Tall Arch and Logo Full-Zip Hoodie.",
+      "keywords": [
+        "action figure", "toy story", "posable", "requires batteries"
+      ],
+      "image": "BoldFull-Zip Hoodie.jpeg",
+      "age": [
+        "3", "10"
+      ],
+      "price": 68.50
+    },
+    {
+      "id": 7,
+      "name": "Alligators Are Ornery Quarter-Zip Pullover Jacket",
+      "description": "Men's Alligators Are Ornery Quarter-Zip Pullover Jacket.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Ornery-Quarter-Zip-Pullover-Jacket .jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 45.99
+    },
+    {
+      "id": 8,
+      "name": "climawarm Raglan Pullover Hoodie",
+      "description": "Men's Original climawarm Raglan Pullover Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Nebraska-Cornhuskers-Big-Logo-Pullover-Hoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 39.99
+    },
+    {
+      "id": 9,
+      "name": "Logo full size hoodie",
+      "description": "Men's Fanatics Branded Black Nebraska Cornhuskers True Sport Football Pullover Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Nebraska-Cornhuskers-Arch-Over-Logo-Reverse-Weave-Pullover-Sweatshirt .jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 40.99
+    },
+    {
+      "id": 10,
+      "name": "Formation Pull Over hoodie",
+      "description": "Men's Colosseum Scarlet Nebraska Cornhuskers Big & Tall Arch and Logo Full-Zip Hoodie.",
+      "keywords": [
+        "action figure", "toy story", "posable", "requires batteries"
+      ],
+      "image": "Road-Warrior-Performance-Pullover-Hoodie.jpeg",
+      "age": [
+        "3", "10"
+      ],
+      "price": 68.50
+    },
+    {
+      "id": 11,
+      "name": "Full Zip Hoodie",
+      "description": "Men's Vineyard Vines Black Nebraska Cornhuskers Shep Shirt Quarter-Zip Jacket.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Nebraska-Cornhuskers-Arch-Over-Logo-Reverse-Weave-Pullover-Sweatshirt .jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 45.99
+    },
+    {
+      "id": 12,
+      "name": "Light weight pull over hoodie",
+      "description": "Men's Original Retro Brand Gray Nebraska Cornhuskers School Logo Tri-Blend Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Arch-&-Logo-Pullover-Hoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 39.99
+    },
+    {
+      "id": 13,
+      "name": "Logo full size hoodie",
+      "description": "Men's Fanatics Branded Black Nebraska Cornhuskers True Sport Football Pullover Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "Nebraska-Cornhuskers-Big-Logo-Pullover-Hoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 40.99
+    },
+    {
+      "id": 14,
+      "name": "Formation Pull Over hoodie",
+      "description": "Men's Colosseum Scarlet Nebraska Cornhuskers Big & Tall Arch and Logo Full-Zip Hoodie.",
+      "keywords": [
+        "action figure", "toy story", "posable", "requires batteries"
+      ],
+      "image": "triblendhoodie.jpeg",
+      "age": [
+        "3", "10"
+      ],
+      "price": 68.50
+    },
+    {
+      "id": 3,
+      "name": "Full Zip Hoodie",
+      "description": "Men's Vineyard Vines Black Nebraska Cornhuskers Shep Shirt Quarter-Zip Jacket.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "fullziphoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 45.99
+    },
+    {
+      "id": 4,
+      "name": "Light weight pull over hoodie",
+      "description": "Men's Original Retro Brand Gray Nebraska Cornhuskers School Logo Tri-Blend Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "lightweightpulloverhoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "name": "Logo full size hoodie",
+      "description": "Men's Fanatics Branded Black Nebraska Cornhuskers True Sport Football Pullover Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "logofullsizehoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 40.99
+    },
+    {
+      "id": 2,
+      "name": "Formation Pull Over hoodie",
+      "description": "Men's Colosseum Scarlet Nebraska Cornhuskers Big & Tall Arch and Logo Full-Zip Hoodie.",
+      "keywords": [
+        "action figure", "toy story", "posable", "requires batteries"
+      ],
+      "image": "formationpulloverhoodie.jpeg",
+      "age": [
+        "3", "10"
+      ],
+      "price": 68.50
+    },
+    {
+      "id": 3,
+      "name": "Full Zip Hoodie",
+      "description": "Men's Vineyard Vines Black Nebraska Cornhuskers Shep Shirt Quarter-Zip Jacket.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "fullziphoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 45.99
+    },
+    {
+      "id": 4,
+      "name": "Light weight pull over hoodie",
+      "description": "Men's Original Retro Brand Gray Nebraska Cornhuskers School Logo Tri-Blend Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "lightweightpulloverhoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "name": "Logo full size hoodie",
+      "description": "Men's Fanatics Branded Black Nebraska Cornhuskers True Sport Football Pullover Hoodie.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "logofullsizehoodie.jpeg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 40.99
     }
   ]
 }
