@@ -7,7 +7,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   width: 100%;
-  background-color: #2d98da;
+  background-color: white;
 }
 
 .page-container {
@@ -27,4 +27,8 @@ body {
 .product-listing .product-list-item {
   padding: 10px 30px;
   width: 200px;
+}
+
+.welcome {
+  text-align: center;
 }
