@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 
+
 class SignupForm extends Component {
   constructor(props){
     super(props);
@@ -20,7 +21,8 @@ class SignupForm extends Component {
   }
 
     onSubmit(e) {
-      e.preventDefault()
+      e.preventDefault();
+      this.props.userSignupRequest(this.state);
     }
 
   render(){
@@ -79,4 +81,7 @@ class SignupForm extends Component {
     );
   }
 }
+
+
+
 export default SignupForm;
